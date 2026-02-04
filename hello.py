@@ -1,1 +1,1 @@
-print("hello tejas lovely boy ❤️💕😘😎");
+print("hello tejas lovely boy ");
